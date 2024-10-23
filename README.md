@@ -1,5 +1,14 @@
 # AngularProject
 
+# UI
+![1](https://github.com/user-attachments/assets/f8fdb7c4-c07e-4903-9d54-d2886a436f74)
+![2](https://github.com/user-attachments/assets/1222a3c9-c996-4d3e-8031-66eed268cc15)
+![3](https://github.com/user-attachments/assets/af7748ff-4053-446d-8b2e-4acef6f369e8)
+![4](https://github.com/user-attachments/assets/1f73bc2d-b9d1-44de-8ac2-07897cfc69e3)
+![5](https://github.com/user-attachments/assets/ded62cfa-2747-4b0f-9108-ba01ff8a5080)
+![6](https://github.com/user-attachments/assets/c346726f-1064-4034-9b5c-11ab38017619)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
 ## Development server
@@ -25,3 +34,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
